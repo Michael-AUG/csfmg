@@ -1,5 +1,5 @@
 ---
 title: Membership
 permalink: /membership
-layout: page
+layout: default
 ---

@@ -1,5 +1,5 @@
 ---
 title: Abuse
 permalink: /abuse
-layout: page
+layout: default
 ---

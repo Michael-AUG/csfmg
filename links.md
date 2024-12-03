@@ -1,5 +1,5 @@
 ---
 title: Links
 permalink: /links
-layout: page
+layout: default
 ---
