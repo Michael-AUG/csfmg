@@ -60,6 +60,8 @@ navigation:
         url: /committee
   - title: Repeater Abuse
     url: /abuse
+  - title: Status
+    url: /status 
   - title: Membership
     url: /membership
   - title: Links
