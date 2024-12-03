@@ -65,7 +65,7 @@ navigation:
   - title: Links
     url: /links
   - title: GB3
-    url: /gb3/
+    url: /
     children:
       - title: GB3AY
         url: /gb3/gb3ay
@@ -90,7 +90,7 @@ navigation:
       - title: GB3WA
         url: /gb3/gb3wa
   - title: GB7
-    url: /gb7/
+    url: /
     children:
       - title: GB7AY
         url: /gb7/gb7ay
@@ -101,7 +101,7 @@ navigation:
       - title: GB7GG
         url: /gb7/gb7gg
   - title: MB7
-    url: /mb7/
+    url: /
     children:
       - title: MB7UKL
         url: /mb7/mb7ukl
