@@ -16,6 +16,6 @@ Whilst sometimes it is hard to ignore such behaviour, repeater users are strongl
 
 There is regular feedback of intelligence regarding abuse to Ofcom, which is well equipped to take any action necessary. Do not approach suspected offenders in any way, as this may prejudice investigations already in progress
 
-For more information see [the RSGB](www.rsgb.org) and [UK Repeater](www.ukrepeater.net)
+For more information see [the RSGB](https://www.rsgb.org) and [UK Repeater](https://www.ukrepeater.net)
 
 For information from Ofcom see the pages on the Ofcom website.

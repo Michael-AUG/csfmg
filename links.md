@@ -7,12 +7,10 @@ Below are some links to useful Amateur Radio websites
 
 - [RSGB](http://www.rsgb.org)
 - [Repeater Management Committee](http://www.ukrepeater.net)
-- [Central Scotland UHF Repeaters](#)
 - [Scottish Digital Repeaters](http://dvscotland.net)
 - [Scottish DMR Repeaters](http://dmrscotland.co.uk)
 - [GB3LB, GB3DU and GB3BE Repeaters](http://www.qsl.net)
 - [UK Microwave Group](http://www.microwavers.org)
-- [GB3LG History](#)
 - [GB3AG](http://www.gb3ag.webs.com)
 - [GB3IG](http://www.gb3ig.co.uk)
 - [GM3ZDH's Scottish Amateur Radio Pages](http://radio.intco.biz)
