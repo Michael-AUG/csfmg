@@ -10,3 +10,9 @@ To become a member of the CSFMG, print the membership form from the web page lin
 If you are under 19 you qualify for student membership at £8, otherwise the ordinary membership is £15. If there are two or more with the same surname at the same address the family membership is £25.
 
 Current members will have their callsign and name listed on the Membership list - if you wish to contribute to the group funds but wish to remain anonymous please use the "Make A Donation" button below.
+
+Click here to download the [membership application form](/CSFMGMemb.pdf) (PDF)
+
+Click here to view the [Group Constitution](/constitution.pdf) (PDF)
+
+Click here to view the [current membership list](http://gateway2.cdcomput.com/csfmg/csfmgmembers.php)
