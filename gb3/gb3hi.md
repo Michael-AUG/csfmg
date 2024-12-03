@@ -1,6 +1,6 @@
 ---
 title: GB3HI
-permalink: /gb3hi
+permalink: /gb3/gb3hi
 layout: page
 ---
 

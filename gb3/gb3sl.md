@@ -1,6 +1,6 @@
 ---
 title: GB3SL
-permalink: /gb3sl
+permalink: /gb3/gb3sl
 layout: page
 ---
 

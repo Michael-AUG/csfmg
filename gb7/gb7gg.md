@@ -1,6 +1,6 @@
 ---
 title: GB7GG
-permalink: /gb7gg
+permalink: /gb7/gb7gg
 layout: page
 ---
 

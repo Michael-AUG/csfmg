@@ -1,6 +1,6 @@
 ---
 title: MB7UKL
-permalink: /mb7ukl
+permalink: /mb7/mb7ukl
 layout: page
 ---
 

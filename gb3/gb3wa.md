@@ -1,6 +1,6 @@
 ---
 title: GB3WA
-permalink: /gb3wa
+permalink: /gb3/gb3wa
 layout: page
 ---
 

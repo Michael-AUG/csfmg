@@ -50,3 +50,51 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: GB3
+    url: /gb3/
+    children:
+      - title: GB3AY
+        url: /gb3/gb3ay/
+      - title: GB3CS
+        url: /gb3/gb3cs/
+      - title: GB3CSB
+        url: /gb3/gb3csb/
+      - title: GB3DG
+        url: /gb3/gb3dg/
+      - title: GB3FF
+        url: /gb3/gb3ff/
+      - title: GB3HI
+        url: /gb3/gb3hi/
+      - title: GB3KV
+        url: /gb3/gb3kv/
+      - title: GB3LA
+        url: /gb3/gb3la/
+      - title: GB3PA
+        url: /gb3/gb3pa/
+      - title: GB3SL
+        url: /gb3/gb3sl/
+      - title: GB3WA
+        url: /gb3/gb3wa/
+  - title: GB7
+    url: /gb7/
+    children:
+      - title: GB7AY
+        url: /gb7/gb7ay/
+      - title: GB7CS
+        url: /gb7/gb7cs/
+      - title: GB7DA
+        url: /gb7/gb7da/
+      - title: GB7GG
+        url: /gb7/gb7gg/
+  - title: MB7
+    url: /mb7/
+    children:
+      - title: MB7UKL
+        url: /mb7/mb7ukl/
+      - title: MB7VN
+        url: /mb7/mb7vn/

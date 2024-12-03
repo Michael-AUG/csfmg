@@ -1,6 +1,6 @@
 ---
 title: GB3PA
-permalink: /gb3pa
+permalink: /gb3/gb3pa
 layout: page
 ---
 

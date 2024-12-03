@@ -1,6 +1,6 @@
 ---
 title: GB3CS
-permalink: /gb3cs
+permalink: /gb3/gb3cs
 layout: page
 ---
 

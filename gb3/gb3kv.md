@@ -1,6 +1,6 @@
 ---
 title: GB3KV
-permalink: /gb3kv
+permalink: /gb3/gb3kv
 layout: page
 ---
 

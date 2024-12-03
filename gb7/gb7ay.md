@@ -1,6 +1,6 @@
 ---
 title: GB7AY
-permalink: /gb7ay
+permalink: /gb7/gb7ay
 layout: page
 ---
 

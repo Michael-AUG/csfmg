@@ -1,6 +1,6 @@
 ---
 title: GB3CSB
-permalink: /gb3csb
+permalink: /gb3/gb3csb
 layout: page
 ---
 

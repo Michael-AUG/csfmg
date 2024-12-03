@@ -1,6 +1,6 @@
 ---
 title: MB7VN
-permalink: /mb7vn
+permalink: /mb7/mb7vn
 layout: page
 ---
 

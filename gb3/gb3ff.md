@@ -1,6 +1,6 @@
 ---
 title: GB3FF
-permalink: /gb3ff
+permalink: /gb3/gb3ff
 layout: page
 ---
 
