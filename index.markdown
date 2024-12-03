@@ -4,3 +4,5 @@
 
 layout: home
 ---
+The Central Scotland FM Group has provided and is responsible for maintaining many of the repeaters now operating in West, South-West, Central and East Scotland.
+This can only be done with your support as a member of the group
