@@ -1,5 +1,5 @@
 ---
-title: Repeater Abuse
+title: Abuse
 permalink: /abuse
 layout: page
 ---
