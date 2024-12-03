@@ -13,10 +13,10 @@ layout: default
 | GB3DG | OK ||
 | GB3FF | Off Air | Rebuilt required, Antenna replacement & Transmitter Fault |
 | GB7GG | OK ||
-| GB3HI | Issues - Under investigation| Back on Air - October 2023 |
+| GB3HI | Issues | Under Investigation |
 | GB3KV | OK ||
 | GB3LA | OK ||
-| GB3PA | OK | Issues with power onsite, on 11/11/24 due to sunny weather |
+| GB3PA | Issues | Issues with power onsite, on 11/11/24 due to sunny weather |
 | GB3SL | OK ||
 | GB3WA | OK ||
 | MB7VN | OK ||
