@@ -107,5 +107,7 @@ navigation:
     children:
       - title: MB7UKL
         url: /mb7/mb7ukl
+      - title: MB7NKL
+        url: /mb7/mb7nkl
       - title: MB7VN
         url: /mb7/mb7vn
