@@ -5,5 +5,4 @@
 layout: default
 ---
 
-The Central Scotland FM Group has provided and is responsible for maintaining many of the repeaters now operating in West, South-West, Central and East Scotland.
-This can only be done with your support as a member of the group
+Welcome to the Central Scotland FM Repeater Group (CSFMG) website! We are a member-funded group dedicated to supporting amateur radio enthusiasts in the region by maintaining and operating a wide network of FM and digital-mode repeaters, beacons and APRS iGates/digis. Our mission is to enhance communication within the community and ensure reliable radio services. Here, you'll find information about our repeaters, their status, and how you can get involved. For more details on how we serve the local amateur radio community, explore our site further!

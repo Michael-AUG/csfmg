@@ -10,3 +10,4 @@ Repeater Keeper - Ian GM4AUP
 
 GB7DA - RV62 - 145.7750/145.1750
 
+Click [here](http://dvscotland.net/) for further details.

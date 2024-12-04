@@ -10,4 +10,4 @@ Repeater Keeper - Len GM0ONX
 
 GB7AY - DVU36 - 439.4500/430.4500
 
-Click here for Further Details
+[Click here](http://dvscotland.net/) for Further Details

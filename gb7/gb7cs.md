@@ -14,3 +14,5 @@ Yaesu DR-1X repeater C4FM Digital Only
 
 This repeater is Digital only and will not accept any FM. It has been licensed in the 9MHz split on 70cms used for Digital only repeaters.
 If you access this repeater it will come back and identify itself on your radio's display with its call-sign.
+
+Click here to read the [CSFMG Guide to DV Repeaters](/gb7/repeaterGuide.pdf) (PDF).
