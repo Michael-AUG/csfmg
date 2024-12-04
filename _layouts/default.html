@@ -12,10 +12,12 @@
         {% include header.html %}
     </header>
     <main>
+        <h2>{{ page.title }}</h2>
         {{ content }}
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+        <p>Webmaster <a href="mailto:gm5aug@topple.scot">Michael GM5AUG</a></p>
     </footer>
 </body>
 </html>
