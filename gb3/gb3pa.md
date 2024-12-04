@@ -3,7 +3,7 @@ title: GB3PA
 permalink: /gb3/gb3pa
 layout: default
 ---
-LangBank, Renfrewshire
+Langbank, Renfrewshire
 
 Repeater Keeper - Andy GM7GDE
 

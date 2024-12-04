@@ -22,13 +22,13 @@ The Kelty site became unavailable in 2020 due to redevelopment and GB3FF was mov
 
 Technical Information
 
-RF Platform - Kyodo/Nokia BSR150
-Tx Power - 15W
-Deviation - Narrow (Max 2.5khz)
-Duplexer - QST/CSFMG 6 Cavity + Circulators
-Logic - G1SLE Mk2
-Aerial - Diamond X50 co-linear
-Feeder - Andrews LDF250
-Talk-thru time - 4 Minutes
-Ident - GB3FF G in Morse
-Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS 
+* RF Platform - Kyodo/Nokia BSR150
+* Tx Power - 15W
+* Deviation - Narrow (Max 2.5khz)
+* Duplexer - QST/CSFMG 6 Cavity + Circulators
+* Logic - G1SLE Mk2
+* Aerial - Diamond X50 co-linear
+* Feeder - Andrews LDF250
+* Talk-thru time - 4 Minutes
+* Ident - GB3FF G in Morse
+* Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS 

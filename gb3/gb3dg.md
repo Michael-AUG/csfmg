@@ -19,14 +19,14 @@ This repeater is sited on Cambret Hill, about mid-way between Gatehouse of Fleet
 
 **Technical Information**
 
-RF Platform - Nokia BSR150
-Tx Power - xxW into duplexer
-Tx Power - xxW out of duplexer
-Deviation - Narrow (Max 2.5khz)
-Duplexer - QST/CSFMG 6 Cavity
-Logic - G1SLE Mk2
-Aerial - Folded Dipole
-Feeder - Andrews LDF550
-Talk-thru time - 4 Mins
-Ident - GB3DG G in Morse
-Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS. 
+* RF Platform - Nokia BSR150
+* Tx Power - xxW into duplexer
+* Tx Power - xxW out of duplexer
+* Deviation - Narrow (Max 2.5khz)
+* Duplexer - QST/CSFMG 6 Cavity
+* Logic - G1SLE Mk2
+* Aerial - Folded Dipole
+* Feeder - Andrews LDF550
+* Talk-thru time - 4 Mins
+* Ident - GB3DG G in Morse
+* Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS. 

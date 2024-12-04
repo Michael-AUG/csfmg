@@ -19,14 +19,14 @@ Please remember GB3CS is operating Narrow Deviation - Signals with wide deviatio
 
 **Technical Information**
 
-RF Platform - Nokia BSR 150 - Narrow Deviation
-Tx Power - 25W into duplexer
-Tx Power - 13W out of duplexer
-Rx pre-amp - None fitted at present
-Duplexer - Wacom WP-641
-Logic - G1SLE Mk2
-Aerial - Radio Structures Collinear 4.5dBD
-Feeder - Andrews LDF550
-Talk-thru time - 4 Mins
-Ident - GB3CS G in Morse every 10 mins.
-Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS.
+* RF Platform - Nokia BSR 150 - Narrow Deviation
+* Tx Power - 25W into duplexer
+* Tx Power - 13W out of duplexer
+* Rx pre-amp - None fitted at present
+* Duplexer - Wacom WP-641
+* Logic - G1SLE Mk2
+* Aerial - Radio Structures Collinear 4.5dBD
+* Feeder - Andrews LDF550
+* Talk-thru time - 4 Mins
+* Ident - GB3CS G in Morse every 10 mins.
+* Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS.

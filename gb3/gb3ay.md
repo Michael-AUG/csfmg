@@ -6,7 +6,6 @@ layout: default
 
 Baidland Hill, Dalry, Ayrshire
 
-
 Repeater Keeper - Gordon MM0YET
 
 GB3AY - R2 (RV52) 145.650/145.050MHz 1750/103.5 Hz (G) Access
@@ -22,13 +21,13 @@ It has been operational here since 1994. The output is 12 watts into a 3dB colin
 
 **Technical Information**
 
-RF Platform - Nokia BSR150
-Tx Power - 25W into duplexer
-Tx Power - 12W out of duplexer
-Duplexer - QST/CSFMG
-Logic - G1SLE Mk2
-Aerial - Collinear 3dBD
-Feeder - Andrews LDF250
-Talk-thru time - 4 Minutes
-Ident - GB3AY G in Morse every 10 minutes.
-Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS. 
+* RF Platform - Nokia BSR150
+* Tx Power - 25W into duplexer
+* Tx Power - 12W out of duplexer
+* Duplexer - QST/CSFMG
+* Logic - G1SLE Mk2
+* Aerial - Collinear 3dBD
+* Feeder - Andrews LDF250
+* Talk-thru time - 4 Minutes
+* Ident - GB3AY G in Morse every 10 minutes.
+* Access - 1750Hz for greater than 0.5 secs but no greater than 4 secs or 103.5Hz CTCSS. 
